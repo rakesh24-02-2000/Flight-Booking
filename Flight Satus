@@ -1,0 +1,5 @@
+The status of a flight can be one of the following.
+Scheduled: Flight is not airborne. ...
+Delayed: Flight will depart 15 or more minutes after its scheduled departure time.
+Departed: Flight has left the departure gate but may not be airborne yet.
+In Air: Flight is airborne.
